@@ -2,6 +2,9 @@ public class Abc
 {
 public Static void main(String args[])
 {
-System.out.println("Hello from ABC");
+for(int i=1;i<=10;i++)
+{
+System.out.println("Hiiiiiiiiii from ABC");
+}
 }
 }
